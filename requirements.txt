@@ -1,0 +1,7 @@
+torch>=2.7,<2.12
+torchvision>=0.22,<0.27
+lerobot>=0.3
+transformers>=4.40
+huggingface_hub>=0.24
+numpy>=1.26
+pillow>=10
