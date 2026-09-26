@@ -2,7 +2,7 @@
 
 A Python harness that benchmarks vision-language-action (VLA) robot policy inference the same way an LLM benchmark measures token generation: per-action-chunk latency (p50/p95), throughput, and peak memory, across CPU, Apple Silicon (MPS), and CUDA.
 
-This is the companion to [TTFT-ITL-Benchmark-suite](https://github.com/imtisaalm/TTFT-ITL-Benchmark-suite). That project measures LLM inference under load. This one measures robot policy inference, one action chunk at a time. Same measurement discipline, different workload.
+This is the companion to [TTFT-ITL-Benchmark-suite](https://github.com/imtisaalm/TTFT-ITL-Benchmark-suite). That project measures LLM inference under load. This one measures robot policy inference, one action chunk at a time. 
 
 ## Why Python
 
